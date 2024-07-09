@@ -9,7 +9,7 @@
  Basically kotlin is java but better
 
 # Why no jar
- Because kotlinc is dumb for me and idk how to fix it
+ Because the kotlin compiler is dumb for me and idk how to fix it
 
 # Credits
  Credits to me for making the program
